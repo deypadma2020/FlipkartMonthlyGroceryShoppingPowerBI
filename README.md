@@ -12,10 +12,10 @@ It helps customers stay informed about:
 ## 📊 Report Visualizations
 
 ### 🫘 Dals and Pulses
-![Dals and Pulses](report_image/dals_and_pulses.png)
+![Image](https://github.com/user-attachments/assets/4e9106c6-40a0-4791-ad9e-7ef17590c20c)
 
 ### 🛢️ Ghee and Oils
-![Ghee and Oils](report_image/ghee_and_oils.png)
+![Image](https://github.com/user-attachments/assets/799e5685-2808-4324-8363-4cd682a326a5)
 
 ---
 
