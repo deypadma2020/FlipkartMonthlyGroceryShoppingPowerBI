@@ -26,4 +26,6 @@ It helps customers stay informed about:
 
 ---
 
-## 📂 Folder Structure
+## Interactive report url - 
+
+https://app.powerbi.com/view?r=eyJrIjoiNWMyZDQ0YjktOGRhMy00ZDY3LTk2YmYtZDRhNGFjMzE0YmU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
